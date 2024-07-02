@@ -12,15 +12,6 @@ const CheckoutScreen = ({ navigation }) => {
 
     const totalCost = cartItems.reduce((sum, item) => sum + parseFloat(item.price) || 0, 0);
 
-    // Log cart items for debugging
-    //  console.log("Cart Items:", cartItems);
-
-    // Calculate the total cost of items in the cart
-    //  const totalCost = cartItems.reduce((sum, item) => {
-    //      const price = parseFloat(item.price);
-    //      console.log(`Item: ${item.name}, Price: ${price}`);
-    //      return sum + (isNaN(price) ? 0 : price);
-    //  }, 0);
 
     return (
         <View style={styles.container}>
