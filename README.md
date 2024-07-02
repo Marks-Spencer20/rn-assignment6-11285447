@@ -7,18 +7,27 @@ This project is an assignment for the DCIT202 Mobile Application Development cou
 ## Table of Contents
 
 - Features
+
 - Components
   - HomeScreen
   - CartScreen
   - ProductCard
   - CartItem
   - AsyncStorage Implementation
+
 - Functionality
+
+- Live Demo
+
 - Screenshots
-- Installation
+
+- ## Installation
   - Prerequisites
+
 - Usage
+
 - Contributing
+
 - License
 
 ## Features
@@ -42,10 +51,12 @@ The application provides the following features:
 ## Screenshots
 
 - **Home Screen**
-  - [Image of Home Screen]
+  - Home screen
+![alt text](MarkApp/assets/home.png)
 
 - **Checkout Screen**
-  - [Image of Checkout Screen]
+  - Checkout screen
+![alt text](MarkApp/assets/Checkout.png)
 
 ## Installation
 
@@ -74,7 +85,9 @@ The application provides the following features:
    - Browse products on the Home screen.
    - Navigate to the Checkout screen to view the selected products and their total cost.
 
+## Live Demo
 
+- <video controls src="MarkApp/assets/demo.mp4" title="Title"></video>
 
 ## Contributing
 
@@ -88,6 +101,5 @@ This project is licensed under the MIT License.
 
 - This project was developed using React Native (Expo) version X.X.X.
 - Tested on iOS and Android simulators/emulators.
-- **Credits**: Developed by Javis Frimpong.
 
----
+- **Credits**: Developed by Javis Frimpong.
