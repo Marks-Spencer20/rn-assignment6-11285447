@@ -87,7 +87,7 @@ The application provides the following features:
 
 ## Live Demo
 
-- <video controls src="MarkApp/assets/demo.mp4" title="Title"></video>
+- https://vimeo.com/974407464?share=copy
 
 ## Contributing
 
